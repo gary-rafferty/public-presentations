@@ -4,7 +4,7 @@ This is a compiled list of public talks by Zalando Tech: meetup presentations, r
 We try to keep the list up-to-date --- please open a Pull Request to add a public presentation.
 
 ## 2022
-* [2022-10-20 Building Scalable Frontends @ Zalando](files/2022-10-20-Dublin-Scalable-Frontends.pdf)
+* [2022-10-20 Building Scalable Frontends at Zalando](files/2022-10-20-Dublin-Scalable-Frontends.pdf)
 * [2022-10-20 Kubernetes Native Change Data Capture](files/2022-10-20-Dublin-Kubernetes-Native-Change-Data-Capture.pdf)
 * [2022-10-18 DataTalks.Club: Machine Learning Workflows in Production](https://www.youtube.com/watch?v=CO4Gqd95j6k)
 * [2022-06-22 DevOpsCon Berlin: Zalando's Quest for Operating 10K Micro Services](files/2022-06-22-DevOpsCon-Berlin-Zalando-Quest.pdf)
